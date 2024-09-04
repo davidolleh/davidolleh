@@ -2,7 +2,7 @@
   <br/>
   <br/>
 #### ABOUT ME
-  - Department of Software, Sejong University (2020.03 ~ )
+- Department of Software, Sejong University (2019.03 ~ )
   <br/>
   <br/>
 #### 🛠️ Studying
