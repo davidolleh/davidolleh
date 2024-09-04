@@ -1,7 +1,7 @@
 #### Seung Joon<sub> @davidolleh</sub>
   <br/>
   <br/>
-## ABOUT ME
+#### ABOUT ME
   - Department of Software, Sejong University (2020.03 ~ )
   <br/>
   <br/>
