@@ -1,5 +1,10 @@
 #### Seung Joon<sub> @davidolleh</sub>
-
+  <br/>
+  <br/>
+## ABOUT ME
+  - Department of Software, Sejong University (2020.03 ~ )
+  <br/>
+  <br/>
 #### 🛠️ Studying
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
